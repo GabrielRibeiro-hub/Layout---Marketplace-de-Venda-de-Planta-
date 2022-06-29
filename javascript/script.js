@@ -6,4 +6,4 @@ button.addEventListener("click", function(){
 
     img12.classList.toggle("hide")
 
- })
+ });
